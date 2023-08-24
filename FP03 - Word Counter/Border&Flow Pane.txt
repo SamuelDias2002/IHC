@@ -1,0 +1,11 @@
+Border Pane
+
+	|	|	
+-------	|-------|---------
+	|	|
+Left	|Center	|Right
+-------	|-------|---------
+	|	|
+
+
+FlowPane para bottom
